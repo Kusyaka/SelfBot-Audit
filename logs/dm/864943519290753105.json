@@ -1,0 +1,18 @@
+{
+  "DM_name": "Direct Message with Kusyaka`s Twin#9033",
+  "DM_id": 866361911087202334,
+  "DM_user_id": 864943519290753105,
+  "DM_icon": "https://cdn.discordapp.com/embed/avatars/3.png",
+  "is_guild": false,
+  "events": [
+    {
+      "timestamp": 1627913166,
+      "type": "Message Delete",
+      "author": "Kusyaka`s Twin#9033",
+      "author_id": 864943519290753105,
+      "author_icon": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "content": "awdd",
+      "attachments": []
+    }
+  ]
+}

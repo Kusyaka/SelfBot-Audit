@@ -1,4 +1,4 @@
-1. Insert yout Discotrd User Token in settings.json 
+1. Insert your Discotrd User Token in settings.json 
 
 https://www.youtube.com/watch?v=YEgFvgg7ZPI
 

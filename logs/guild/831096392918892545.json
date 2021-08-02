@@ -1,0 +1,22 @@
+{
+  "guid_name": "\u0421\u0435\u0440\u0432\u0435\u0440 Kusyaka",
+  "guild_id": 831096392918892545,
+  "guild_icon": "",
+  "is_guild": true,
+  "events": [
+    {
+      "timestamp": 1627917335,
+      "type": "Member Join",
+      "before_avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "after_avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "before_name": "Kusyaka`s Twin#9033",
+      "after_name": "Kusyaka`s Twin#9033",
+      "before_roles": [
+        "@everyone"
+      ],
+      "after_roles": [
+        "@everyone"
+      ]
+    }
+  ]
+}

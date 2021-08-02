@@ -1,0 +1,52 @@
+{
+  "guid_name": "\u0422\u0430\u0432\u0435\u0440\u043d\u0430 \"\u0417\u0430\u043a\u0430\u0442\"",
+  "guild_id": 757272346615742464,
+  "guild_icon": "https://cdn.discordapp.com/icons/757272346615742464/a_37975201deb1d67f2b6da861745f693c.gif?size=1024",
+  "is_guild": true,
+  "events": [
+    {
+      "timestamp": 1627917332,
+      "type": "Member Join",
+      "before_avatar_url": "https://cdn.discordapp.com/avatars/723472574339874836/aceff953c8eeb752864de4649c5300e1.webp?size=1024",
+      "after_avatar_url": "https://cdn.discordapp.com/avatars/723472574339874836/aceff953c8eeb752864de4649c5300e1.webp?size=1024",
+      "before_name": "user-234-869#0367",
+      "after_name": "user-234-869#0367",
+      "before_roles": [
+        "@everyone",
+        "\u2063\u2002 \u00a0\ud81a\udd0d                  \u0414\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f                 \u00a0\ud81a\udd0d",
+        "\u2063\u2002 \u00a0\ud81a\udd0d          \u0412 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u043e\u043c \u043a\u0430\u043d\u0430\u043b\u0435         \u00a0\ud81a\udd0d",
+        "\u22b9\u22b1\ud83c\udf77\u22b0\u22b9\u041f\u043e\u0441\u0442\u043e\u044f\u043b\u0435\u0446",
+        "\u2063\u2002  \ud81a\udd0d               \u0420\u043e\u043b\u044c \u0437\u0430 \u0443\u0440\u043e\u0432\u0435\u043d\u044c               \u00a0\ud81a\udd0d"
+      ],
+      "after_roles": [
+        "@everyone",
+        "\u2063\u2002 \u00a0\ud81a\udd0d                  \u0414\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f                 \u00a0\ud81a\udd0d",
+        "\u2063\u2002 \u00a0\ud81a\udd0d          \u0412 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u043e\u043c \u043a\u0430\u043d\u0430\u043b\u0435         \u00a0\ud81a\udd0d",
+        "\u22b9\u22b1\ud83c\udf77\u22b0\u22b9\u041f\u043e\u0441\u0442\u043e\u044f\u043b\u0435\u0446",
+        "\u2063\u2002  \ud81a\udd0d               \u0420\u043e\u043b\u044c \u0437\u0430 \u0443\u0440\u043e\u0432\u0435\u043d\u044c               \u00a0\ud81a\udd0d"
+      ]
+    },
+    {
+      "timestamp": 1627917335,
+      "type": "Member Join",
+      "before_avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "after_avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "before_name": "Kusyaka`s Twin#9033",
+      "after_name": "Kusyaka`s Twin#9033",
+      "before_roles": [
+        "@everyone",
+        "\u2063\u2002 \u00a0\ud81a\udd0d                  \u0414\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f                 \u00a0\ud81a\udd0d",
+        "\u2063\u2002 \u00a0\ud81a\udd0d          \u0412 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u043e\u043c \u043a\u0430\u043d\u0430\u043b\u0435         \u00a0\ud81a\udd0d",
+        "\u22b9\u22b1\ud83e\udd5b\u22b0\u22b9\u0421\u0442\u0440\u0430\u043d\u043d\u0438\u043a",
+        "\u2063\u2002  \ud81a\udd0d               \u0420\u043e\u043b\u044c \u0437\u0430 \u0443\u0440\u043e\u0432\u0435\u043d\u044c               \u00a0\ud81a\udd0d"
+      ],
+      "after_roles": [
+        "@everyone",
+        "\u2063\u2002 \u00a0\ud81a\udd0d                  \u0414\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f                 \u00a0\ud81a\udd0d",
+        "\u2063\u2002 \u00a0\ud81a\udd0d          \u0412 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u043e\u043c \u043a\u0430\u043d\u0430\u043b\u0435         \u00a0\ud81a\udd0d",
+        "\u22b9\u22b1\ud83e\udd5b\u22b0\u22b9\u0421\u0442\u0440\u0430\u043d\u043d\u0438\u043a",
+        "\u2063\u2002  \ud81a\udd0d               \u0420\u043e\u043b\u044c \u0437\u0430 \u0443\u0440\u043e\u0432\u0435\u043d\u044c               \u00a0\ud81a\udd0d"
+      ]
+    }
+  ]
+}

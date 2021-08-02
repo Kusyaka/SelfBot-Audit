@@ -1,0 +1,62 @@
+{
+  "guid_name": "Russian Red Skins",
+  "guild_id": 250965138377539585,
+  "guild_icon": "https://cdn.discordapp.com/icons/250965138377539585/a_768e56ddf14c38ec0d0fe7b7b47c2712.gif?size=1024",
+  "is_guild": true,
+  "events": [
+    {
+      "timestamp": 1627917332,
+      "type": "Member Join",
+      "before_avatar_url": "https://cdn.discordapp.com/avatars/310848622642069504/1f027527f6cdaffac086c80f8e0ffce1.webp?size=1024",
+      "after_avatar_url": "https://cdn.discordapp.com/avatars/310848622642069504/1f027527f6cdaffac086c80f8e0ffce1.webp?size=1024",
+      "before_name": "JuniperBot#6999",
+      "after_name": "JuniperBot#6999",
+      "before_roles": [
+        "@everyone",
+        "JuniperBot",
+        "\u0411\u041e\u0422"
+      ],
+      "after_roles": [
+        "@everyone",
+        "JuniperBot",
+        "\u0411\u041e\u0422"
+      ]
+    },
+    {
+      "timestamp": 1627917336,
+      "type": "Member Join",
+      "before_avatar_url": "https://cdn.discordapp.com/avatars/310848622642069504/1f027527f6cdaffac086c80f8e0ffce1.webp?size=1024",
+      "after_avatar_url": "https://cdn.discordapp.com/avatars/310848622642069504/1f027527f6cdaffac086c80f8e0ffce1.webp?size=1024",
+      "before_name": "JuniperBot#6999",
+      "after_name": "JuniperBot#6999",
+      "before_roles": [
+        "@everyone",
+        "JuniperBot",
+        "\u0411\u041e\u0422"
+      ],
+      "after_roles": [
+        "@everyone",
+        "JuniperBot",
+        "\u0411\u041e\u0422"
+      ]
+    },
+    {
+      "timestamp": 1627917341,
+      "type": "Member Join",
+      "before_avatar_url": "https://cdn.discordapp.com/avatars/310848622642069504/1f027527f6cdaffac086c80f8e0ffce1.webp?size=1024",
+      "after_avatar_url": "https://cdn.discordapp.com/avatars/310848622642069504/1f027527f6cdaffac086c80f8e0ffce1.webp?size=1024",
+      "before_name": "JuniperBot#6999",
+      "after_name": "JuniperBot#6999",
+      "before_roles": [
+        "@everyone",
+        "JuniperBot",
+        "\u0411\u041e\u0422"
+      ],
+      "after_roles": [
+        "@everyone",
+        "JuniperBot",
+        "\u0411\u041e\u0422"
+      ]
+    }
+  ]
+}
